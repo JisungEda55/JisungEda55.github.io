@@ -1,4 +1,4 @@
-# JisungEda55.github.io 2ezQR
+JisungEda55.github.io 2ezQR
 ENG
 # 2ezQR - Too Easy QR Code
 
