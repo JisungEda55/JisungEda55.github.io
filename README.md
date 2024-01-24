@@ -12,7 +12,7 @@ Featuring a user-friendly UI and an intuitive UX, anyone can easily generate QR 
 # /Key Features/
 Unrestricted QR Code Creation: Create QR codes freely without any limitations.
 Simple and Intuitive Design: Generate QR codes with just a few clicks, thanks to a straightforward interface.
-User-Friendly for All: The service is designed with a simple UI and an intuitive UX to ensure accessibility for everyone.
+User-Friendly for All: The service is designed with a simple UI and an intuitive UX to ensure accessibility for everyone even a monkey.
 
 # /Service Philosophy/
 2ezQR aims to provide a convenient experience for anyone looking to create QR codes.
