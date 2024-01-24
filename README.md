@@ -1,5 +1,5 @@
 # JisungEda55.github.io
-<EN>
+ENG
 2ezQR - Too Easy QR Code
 
 Welcome to 2ezQR - The Easiest QR Code Generator!
@@ -25,7 +25,7 @@ Constantly considering user feedback and demands, we pledge to evolve into a bet
 Packed with smiles and convenience, we hope 2ezQR brings joy and utility to all of you!
 
 
-<KO>
+KOR
 2ezQR - Too Easy QR Code
 
 어서오세요, 2ezQR - 세상에서 가장 간편한 QR코드 제작 서비스!
@@ -49,7 +49,7 @@ Packed with smiles and convenience, we hope 2ezQR brings joy and utility to all 
 우리는 웃음과 편리함을 담아, 2ezQR이 여러분에게 즐거움과 유용함을 전해드리길 기대합니다!
 
 
-<RU>
+RUS
 2ezQR - Слишком Легкий Генератор QR-кодов
 
 Добро пожаловать в 2ezQR - самый простой генератор QR-кодов!
